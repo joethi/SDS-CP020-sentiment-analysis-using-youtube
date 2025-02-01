@@ -1,0 +1,59 @@
+[2025-01-25T06:01:09.889+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-01-25T06:01:09.898+0000] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: fetch_and_store_amazon_books.insert_book_data scheduled__2024-06-26T00:00:00+00:00 [queued]>
+[2025-01-25T06:01:09.903+0000] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: fetch_and_store_amazon_books.insert_book_data scheduled__2024-06-26T00:00:00+00:00 [queued]>
+[2025-01-25T06:01:09.903+0000] {taskinstance.py:2866} INFO - Starting attempt 1 of 2
+[2025-01-25T06:01:09.931+0000] {taskinstance.py:2889} INFO - Executing <Task(PythonOperator): insert_book_data> on 2024-06-26 00:00:00+00:00
+[2025-01-25T06:01:09.936+0000] {warnings.py:112} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:70: DeprecationWarning: This process (pid=1044) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2025-01-25T06:01:09.937+0000] {standard_task_runner.py:72} INFO - Started process 1047 to run task
+[2025-01-25T06:01:09.938+0000] {standard_task_runner.py:104} INFO - Running: ['***', 'tasks', 'run', 'fetch_and_store_amazon_books', 'insert_book_data', 'scheduled__2024-06-26T00:00:00+00:00', '--job-id', '47', '--raw', '--subdir', 'DAGS_FOLDER/app.py', '--cfg-path', '/tmp/tmpyoquavnp']
+[2025-01-25T06:01:09.939+0000] {standard_task_runner.py:105} INFO - Job 47: Subtask insert_book_data
+[2025-01-25T06:01:09.981+0000] {task_command.py:467} INFO - Running <TaskInstance: fetch_and_store_amazon_books.insert_book_data scheduled__2024-06-26T00:00:00+00:00 [running]> on host 815074f09894
+[2025-01-25T06:01:10.017+0000] {taskinstance.py:3132} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='fetch_and_store_amazon_books' AIRFLOW_CTX_TASK_ID='insert_book_data' AIRFLOW_CTX_EXECUTION_DATE='2024-06-26T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-06-26T00:00:00+00:00'
+[2025-01-25T06:01:10.018+0000] {logging_mixin.py:190} INFO - Task instance is in running state
+[2025-01-25T06:01:10.018+0000] {logging_mixin.py:190} INFO -  Previous state of the Task instance: queued
+[2025-01-25T06:01:10.019+0000] {logging_mixin.py:190} INFO - Current task name:insert_book_data state:running start_date:2025-01-25 06:01:09.898982+00:00
+[2025-01-25T06:01:10.019+0000] {logging_mixin.py:190} INFO - Dag name:fetch_and_store_amazon_books and current dag run status:running
+[2025-01-25T06:01:10.019+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2025-01-25T06:01:10.026+0000] {base.py:84} INFO - Retrieving connection 'books_connection'
+[2025-01-25T06:01:10.027+0000] {sql.py:553} INFO - Running statement: 
+    INSERT INTO books (title, authors, price, rating)
+    VALUES (%s, %s, %s, %s)
+    , parameters: ('Jul 25, 2014', 'For $39.95 to buy season', '2.', '4.6 out of 5 stars')
+[2025-01-25T06:01:10.028+0000] {sql.py:562} INFO - Rows affected: 1
+[2025-01-25T06:01:10.030+0000] {sql.py:553} INFO - Running statement: 
+    INSERT INTO books (title, authors, price, rating)
+    VALUES (%s, %s, %s, %s)
+    , parameters: ('Nov 29, 2018', 'For $49.95 to buy season', '2.', '4.5 out of 5 stars')
+[2025-01-25T06:01:10.030+0000] {sql.py:562} INFO - Rows affected: 1
+[2025-01-25T06:01:10.031+0000] {sql.py:553} INFO - Running statement: 
+    INSERT INTO books (title, authors, price, rating)
+    VALUES (%s, %s, %s, %s)
+    , parameters: ('Mar 28, 2019', 'For $59.95 to buy season', '2.', '4.5 out of 5 stars')
+[2025-01-25T06:01:10.032+0000] {sql.py:562} INFO - Rows affected: 1
+[2025-01-25T06:01:10.033+0000] {sql.py:553} INFO - Running statement: 
+    INSERT INTO books (title, authors, price, rating)
+    VALUES (%s, %s, %s, %s)
+    , parameters: ('2005', 'Prime Video', '1.', '2.4 out of 5 stars')
+[2025-01-25T06:01:10.033+0000] {sql.py:562} INFO - Rows affected: 1
+[2025-01-25T06:01:10.035+0000] {sql.py:553} INFO - Running statement: 
+    INSERT INTO books (title, authors, price, rating)
+    VALUES (%s, %s, %s, %s)
+    , parameters: ('2017', 'Prime Video', '1.', '5.0 out of 5 stars')
+[2025-01-25T06:01:10.035+0000] {sql.py:562} INFO - Rows affected: 1
+[2025-01-25T06:01:10.037+0000] {sql.py:553} INFO - Running statement: 
+    INSERT INTO books (title, authors, price, rating)
+    VALUES (%s, %s, %s, %s)
+    , parameters: ('2024', 'Prime Video', '1.', '4.4 out of 5 stars')
+[2025-01-25T06:01:10.037+0000] {sql.py:562} INFO - Rows affected: 1
+[2025-01-25T06:01:10.037+0000] {python.py:240} INFO - Done. Returned value was: None
+[2025-01-25T06:01:10.041+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2025-01-25T06:01:10.041+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=fetch_and_store_amazon_books, task_id=insert_book_data, run_id=scheduled__2024-06-26T00:00:00+00:00, execution_date=20240626T000000, start_date=20250125T060109, end_date=20250125T060110
+[2025-01-25T06:01:10.043+0000] {logging_mixin.py:190} INFO - Task instance in success state
+[2025-01-25T06:01:10.044+0000] {logging_mixin.py:190} INFO -  Previous state of the Task instance: running
+[2025-01-25T06:01:10.044+0000] {logging_mixin.py:190} INFO - Dag name:fetch_and_store_amazon_books queued_at:2025-01-25 05:58:45.235323+00:00
+[2025-01-25T06:01:10.044+0000] {logging_mixin.py:190} INFO - Task hostname:815074f09894 operator:PythonOperator
+[2025-01-25T06:01:10.079+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2025-01-25T06:01:10.087+0000] {taskinstance.py:3895} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-01-25T06:01:10.089+0000] {local_task_job_runner.py:245} INFO - ::endgroup::
