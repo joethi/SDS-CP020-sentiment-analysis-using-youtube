@@ -3,5 +3,5 @@
 .DS_Store
 .env
 .venv
-jothi-thondiraj/logs/
-jothi-thondiraj/venv/
+logs/
+venv/
