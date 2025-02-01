@@ -1,0 +1,29 @@
+[2025-01-29T22:00:29.399+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-01-29T22:00:29.408+0000] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: fetch_and_store_amazon_books_test.fetch_book_data scheduled__2025-01-26T00:00:00+00:00 [queued]>
+[2025-01-29T22:00:29.419+0000] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: fetch_and_store_amazon_books_test.fetch_book_data scheduled__2025-01-26T00:00:00+00:00 [queued]>
+[2025-01-29T22:00:29.421+0000] {taskinstance.py:2866} INFO - Starting attempt 1 of 2
+[2025-01-29T22:00:29.457+0000] {taskinstance.py:2889} INFO - Executing <Task(PythonOperator): fetch_book_data> on 2025-01-26 00:00:00+00:00
+[2025-01-29T22:00:29.464+0000] {warnings.py:112} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:70: DeprecationWarning: This process (pid=256) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2025-01-29T22:00:29.476+0000] {standard_task_runner.py:104} INFO - Running: ['***', 'tasks', 'run', 'fetch_and_store_amazon_books_test', 'fetch_book_data', 'scheduled__2025-01-26T00:00:00+00:00', '--job-id', '373', '--raw', '--subdir', 'DAGS_FOLDER/app.py', '--cfg-path', '/tmp/tmpxbjdmbmt']
+[2025-01-29T22:00:29.482+0000] {standard_task_runner.py:105} INFO - Job 373: Subtask fetch_book_data
+[2025-01-29T22:00:29.482+0000] {standard_task_runner.py:72} INFO - Started process 268 to run task
+[2025-01-29T22:00:29.594+0000] {task_command.py:467} INFO - Running <TaskInstance: fetch_and_store_amazon_books_test.fetch_book_data scheduled__2025-01-26T00:00:00+00:00 [running]> on host cd5bb4af01cb
+[2025-01-29T22:00:29.744+0000] {taskinstance.py:3132} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='fetch_and_store_amazon_books_test' AIRFLOW_CTX_TASK_ID='fetch_book_data' AIRFLOW_CTX_EXECUTION_DATE='2025-01-26T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2025-01-26T00:00:00+00:00'
+[2025-01-29T22:00:29.752+0000] {logging_mixin.py:190} INFO - Task instance is in running state
+[2025-01-29T22:00:29.756+0000] {logging_mixin.py:190} INFO -  Previous state of the Task instance: queued
+[2025-01-29T22:00:29.759+0000] {logging_mixin.py:190} INFO - Current task name:fetch_book_data state:running start_date:2025-01-29 22:00:29.409031+00:00
+[2025-01-29T22:00:29.761+0000] {logging_mixin.py:190} INFO - Dag name:fetch_and_store_amazon_books_test and current dag run status:running
+[2025-01-29T22:00:29.765+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2025-01-29T22:03:28.263+0000] {logging_mixin.py:190} INFO - Failed to retrieve the page
+[2025-01-29T22:03:28.278+0000] {python.py:240} INFO - Done. Returned value was: None
+[2025-01-29T22:03:28.286+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2025-01-29T22:03:28.287+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=fetch_and_store_amazon_books_test, task_id=fetch_book_data, run_id=scheduled__2025-01-26T00:00:00+00:00, execution_date=20250126T000000, start_date=20250129T220029, end_date=20250129T220328
+[2025-01-29T22:03:28.296+0000] {logging_mixin.py:190} INFO - Task instance in success state
+[2025-01-29T22:03:28.296+0000] {logging_mixin.py:190} INFO -  Previous state of the Task instance: running
+[2025-01-29T22:03:28.297+0000] {logging_mixin.py:190} INFO - Dag name:fetch_and_store_amazon_books_test queued_at:2025-01-29 22:00:24.020716+00:00
+[2025-01-29T22:03:28.298+0000] {logging_mixin.py:190} INFO - Task hostname:cd5bb4af01cb operator:PythonOperator
+[2025-01-29T22:03:28.327+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2025-01-29T22:03:28.360+0000] {taskinstance.py:3895} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2025-01-29T22:03:28.361+0000] {local_task_job_runner.py:245} INFO - ::endgroup::
