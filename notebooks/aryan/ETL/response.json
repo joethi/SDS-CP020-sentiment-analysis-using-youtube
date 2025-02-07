@@ -1,0 +1,648 @@
+{
+  "kind": "youtube#commentThreadListResponse",
+  "etag": "YyNnUPzMj-Mu39CiDcFRkqbVID8",
+  "nextPageToken": "Z2V0X25ld2VzdF9maXJzdC0tQ2dnSWdBUVZGN2ZST0JJRkNJY2dHQUFTQlFpSUlCZ0FFZ1VJblNBWUFSSUZDSWtnR0FBU0JRaW9JQmdBSWcwS0N3aW1pcUc2QmhDWXk5bGs=",
+  "pageInfo": { "totalResults": 20, "resultsPerPage": 20 },
+  "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "G8l36gjs7kdf3V5CeXgtvuDUwjQ",
+      "id": "UgyN40qiQYF94H_rAth4AaABAg",
+      "snippet": {
+        "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+        "videoId": "Y_vQyMljDsE",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "RfQUV6yw1kJTrkifyXI1Vd6zaYo",
+          "id": "UgyN40qiQYF94H_rAth4AaABAg",
+          "snippet": {
+            "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+            "videoId": "Y_vQyMljDsE",
+            "textDisplay": "Check out my new Udemy complete MLOps Course with 10+ end to end ML Projects:\r<br><a href=\"https://www.udemy.com/course/complete-mlops-bootcamp-with-10-end-to-end-ml-projects/?couponCode=SHARING\">https://www.udemy.com/course/complete-mlops-bootcamp-with-10-end-to-end-ml-projects/?couponCode=SHARING</a>",
+            "textOriginal": "Check out my new Udemy complete MLOps Course with 10+ end to end ML Projects:\r\nhttps://www.udemy.com/course/complete-mlops-bootcamp-with-10-end-to-end-ml-projects/?couponCode=SHARING",
+            "authorDisplayName": "@krishnaik06",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/r0lRsN4EgVg_h9TfhKoK-oa9SGtmC4QxvwhEYFB4VWoRXtxsQoyhh2WvrRxpxciTYwh4D4_W=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@krishnaik06",
+            "authorChannelId": { "value": "UCNU_lfiiWBdtULKOw6X0Dig" },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 4,
+            "publishedAt": "2024-10-15T11:38:12Z",
+            "updatedAt": "2024-10-15T11:38:12Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "eZ-oNRCsUH3ST10CpdnFmyDo5ig",
+      "id": "UgxrDDCO7cInUO-7tZZ4AaABAg",
+      "snippet": {
+        "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+        "videoId": "Y_vQyMljDsE",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "IT4AmoXfca1be6ir-VKHFMkbhW4",
+          "id": "UgxrDDCO7cInUO-7tZZ4AaABAg",
+          "snippet": {
+            "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+            "videoId": "Y_vQyMljDsE",
+            "textDisplay": "I&#39;m getting this error, anyone help me with it ERROR: failed to solve: archive/tar: unknown file mode ?rwxr-xr-x   \r<br>\r<br>View build details: docker-desktop://dashboard/build/desktop-linux/desktop-linux/oiq46b8u0lv768dy5n2aoxnz7\r<br>\r<br>Error: an error was encountered while building the image, see the build logs for details",
+            "textOriginal": "I'm getting this error, anyone help me with it ERROR: failed to solve: archive/tar: unknown file mode ?rwxr-xr-x   \r\n\r\nView build details: docker-desktop://dashboard/build/desktop-linux/desktop-linux/oiq46b8u0lv768dy5n2aoxnz7\r\n\r\nError: an error was encountered while building the image, see the build logs for details",
+            "authorDisplayName": "@niketasengar9191",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/DjsyniG9ywuqPdy0Q9h5i8mkMyIvxNtXVqAS_nKwMd4OjzosE-DwWUnBLDU2iOeaW_7l7xP5Sw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@niketasengar9191",
+            "authorChannelId": { "value": "UCaY9ohHTX2t_8MTzeOWapSQ" },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-02-03T07:19:18Z",
+            "updatedAt": "2025-02-03T07:19:18Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "nGhfDU7q5g8J61k2xTuhCdvt4vM",
+      "id": "Ugz6El6qvDzDV4-Cbax4AaABAg",
+      "snippet": {
+        "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+        "videoId": "Y_vQyMljDsE",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "37LQjQGeiEaDQi2YBtOl9rhfxX0",
+          "id": "Ugz6El6qvDzDV4-Cbax4AaABAg",
+          "snippet": {
+            "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+            "videoId": "Y_vQyMljDsE",
+            "textDisplay": "i cant load into amazon rds seledting enpoint . what shoul \u0131 do",
+            "textOriginal": "i cant load into amazon rds seledting enpoint . what shoul \u0131 do",
+            "authorDisplayName": "@vera4722",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mQLjiwFV3Cyu6Mx-u7qnaAcMG6t_MMCYNDE7J9VnxOKa5d7nCwZtwKaBsK7D_txsrSHQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@vera4722",
+            "authorChannelId": { "value": "UCtmFs-9qoNxzoyu9wLCeYSQ" },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-01-27T21:06:11Z",
+            "updatedAt": "2025-01-27T21:06:11Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "W0vkTsmIgAkBVl28ur985UfGvRg",
+      "id": "UgzQyPfeXTQdzw2mOyt4AaABAg",
+      "snippet": {
+        "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+        "videoId": "Y_vQyMljDsE",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "LFXz_soSVlxYu0Ql6QqkfgrLwso",
+          "id": "UgzQyPfeXTQdzw2mOyt4AaABAg",
+          "snippet": {
+            "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+            "videoId": "Y_vQyMljDsE",
+            "textDisplay": "Greate video to learn etl , thaku sir",
+            "textOriginal": "Greate video to learn etl , thaku sir",
+            "authorDisplayName": "@aswinikumar8783",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_meYAh6NPkc3qZ9RQbztfozX2jknUqc69hcasQTLZa7CCWY6MHmzRI1I6I59gYFhEiQXA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@aswinikumar8783",
+            "authorChannelId": { "value": "UCA-FLanKryQRG8oTraW6t7A" },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-01-26T10:30:10Z",
+            "updatedAt": "2025-01-26T10:30:10Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "krw_y5FwERwMKj9u6Rb9SdoB2yw",
+      "id": "UgxqDfHxi_BCWYk17pR4AaABAg",
+      "snippet": {
+        "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+        "videoId": "Y_vQyMljDsE",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "6r9zhXqcIll1Wh-V2ZPUNqOCTC8",
+          "id": "UgxqDfHxi_BCWYk17pR4AaABAg",
+          "snippet": {
+            "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+            "videoId": "Y_vQyMljDsE",
+            "textDisplay": "\ud83c\udf1f Thank you so much for this incredible content! \ud83c\udf1fYour video helped me navigate my first data engineering project. I learned so much and gained invaluable insights. Your explanations were clear, concise, and easy to follow. Can&#39;t wait to dive into more complex projects!",
+            "textOriginal": "\ud83c\udf1f Thank you so much for this incredible content! \ud83c\udf1fYour video helped me navigate my first data engineering project. I learned so much and gained invaluable insights. Your explanations were clear, concise, and easy to follow. Can't wait to dive into more complex projects!",
+            "authorDisplayName": "@FuzzyBlurryBoy",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/JV73eqo2DULcdVsWVB0-QE2MRBUinBMkLuQlAnRqYCrm_cwpAZGYhBscow3h0QBbKS7NtGpCuQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@FuzzyBlurryBoy",
+            "authorChannelId": { "value": "UCvO92fFMFOe0gHeciqFlf2A" },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-01-25T12:05:59Z",
+            "updatedAt": "2025-01-25T12:05:59Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "79OClWVJb08BEJo_ZSFJUaS_oKA",
+      "id": "UgzVzeSM9wBUR4Xzfbp4AaABAg",
+      "snippet": {
+        "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+        "videoId": "Y_vQyMljDsE",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "43_7YxCKMCMflNG77Q7DWXwJWNg",
+          "id": "UgzVzeSM9wBUR4Xzfbp4AaABAg",
+          "snippet": {
+            "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+            "videoId": "Y_vQyMljDsE",
+            "textDisplay": "hi krish,<br>please how do i fix this error:<br><br>Error: error building, (re)creating or starting project containers: Error response from daemon: Ports are not available: exposing port TCP <a href=\"http://127.0.0.1:5432/\">127.0.0.1:5432</a> -&gt; <a href=\"http://0.0.0.0/\">0.0.0.0:0</a>: listen tcp <a href=\"http://127.0.0.1:5432/\">127.0.0.1:5432</a>: bind: An attempt was made to access a socket in a way forbidden by its access permissions.",
+            "textOriginal": "hi krish,\nplease how do i fix this error:\n\nError: error building, (re)creating or starting project containers: Error response from daemon: Ports are not available: exposing port TCP 127.0.0.1:5432 -> 0.0.0.0:0: listen tcp 127.0.0.1:5432: bind: An attempt was made to access a socket in a way forbidden by its access permissions.",
+            "authorDisplayName": "@kingsleyosifoosemudiamhe9831",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n3Xx1mvCz_szHdpA0RIWCc5V_SU_8pU0mTDoG0t2ChO9BdC1UxtAQdNr99K6YVG_TEcg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@kingsleyosifoosemudiamhe9831",
+            "authorChannelId": { "value": "UCh3qerT-Mrr9vGD2Vrv6mjw" },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-01-20T20:39:12Z",
+            "updatedAt": "2025-01-20T20:39:12Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "71OHxinbraRYBjq7KTuqmrz4DhM",
+      "id": "Ugy9CJ8kFmVHDeqOB754AaABAg",
+      "snippet": {
+        "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+        "videoId": "Y_vQyMljDsE",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "M4oUZn2HzEwv2XcVm5HaHn8cHf4",
+          "id": "Ugy9CJ8kFmVHDeqOB754AaABAg",
+          "snippet": {
+            "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+            "videoId": "Y_vQyMljDsE",
+            "textDisplay": "Can we use MySQL sql here",
+            "textOriginal": "Can we use MySQL sql here",
+            "authorDisplayName": "@pranavgudagi4471",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/YD9KSPzaLZOG1qfZ1FMGKhBDRBYsfnnXPAfjNVIoLHiF_wU5H7v4CuRu-4y21DYhmPqGdboIbdo=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@pranavgudagi4471",
+            "authorChannelId": { "value": "UC9HgEg8QfQwzf0wJBPEgopg" },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-01-20T17:05:35Z",
+            "updatedAt": "2025-01-20T17:05:35Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "WS1dwZllhj-mbK7fBQx9-KOIZdU",
+      "id": "UgxzGgpf9HrZE93EXQ14AaABAg",
+      "snippet": {
+        "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+        "videoId": "Y_vQyMljDsE",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "zGMj6WPeBH5HJDxIouOrL5PWhMc",
+          "id": "UgxzGgpf9HrZE93EXQ14AaABAg",
+          "snippet": {
+            "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+            "videoId": "Y_vQyMljDsE",
+            "textDisplay": "Thank you so much, Krish, for sharing such an educative content for free.",
+            "textOriginal": "Thank you so much, Krish, for sharing such an educative content for free.",
+            "authorDisplayName": "@kingsleyosifoosemudiamhe9831",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n3Xx1mvCz_szHdpA0RIWCc5V_SU_8pU0mTDoG0t2ChO9BdC1UxtAQdNr99K6YVG_TEcg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@kingsleyosifoosemudiamhe9831",
+            "authorChannelId": { "value": "UCh3qerT-Mrr9vGD2Vrv6mjw" },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-01-19T14:46:56Z",
+            "updatedAt": "2025-01-19T14:46:56Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "DTwuTuDexMGUoI1i2Rg-sRRUD9g",
+      "id": "UgzM9xTeBgsOVMZM_Rh4AaABAg",
+      "snippet": {
+        "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+        "videoId": "Y_vQyMljDsE",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Vg-F6lE_AsageOyPPiU5RaXvwto",
+          "id": "UgzM9xTeBgsOVMZM_Rh4AaABAg",
+          "snippet": {
+            "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+            "videoId": "Y_vQyMljDsE",
+            "textDisplay": "It&#39;s also possible to make SQL queries to the Postgres database by accessing the container from the command line running:<br><br>docker exec -it &lt;container_name&gt; psql -U postgres -d postgres",
+            "textOriginal": "It's also possible to make SQL queries to the Postgres database by accessing the container from the command line running:\n\ndocker exec -it <container_name> psql -U postgres -d postgres",
+            "authorDisplayName": "@anycaroliny7900",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_koJ9JzByW6lg0zaf0zRQrKrKjV8Nrj_Q10gYlFT9hH=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@anycaroliny7900",
+            "authorChannelId": { "value": "UCz63mgNTHboM0UkGM6bgscQ" },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-01-17T23:01:21Z",
+            "updatedAt": "2025-01-17T23:01:21Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "yYAFyPQbeFzdijy0uK6-5f5uTiM",
+      "id": "UgwUZ6dWOogttWtxL9J4AaABAg",
+      "snippet": {
+        "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+        "videoId": "Y_vQyMljDsE",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "twj38n-AEwUP0mCWkqySy4PB9WA",
+          "id": "UgwUZ6dWOogttWtxL9J4AaABAg",
+          "snippet": {
+            "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+            "videoId": "Y_vQyMljDsE",
+            "textDisplay": "HI Krish sir, <br>I am trying to connect to my oracle database, and I am the very beginner to this. Need your assistance that how can I do it ?",
+            "textOriginal": "HI Krish sir, \nI am trying to connect to my oracle database, and I am the very beginner to this. Need your assistance that how can I do it ?",
+            "authorDisplayName": "@RumiAnalytics2024",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/tRqmyMmtZvdObIi-kXdO1nzU89UgELD5ldx-zKsHc6JSVFJAXztiW3prutTneJisJk8LwRlx=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@RumiAnalytics2024",
+            "authorChannelId": { "value": "UCVONOGmnMm-1Xr74RFu8Rjw" },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-01-14T14:06:57Z",
+            "updatedAt": "2025-01-14T14:06:57Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "X_8siwyHpqCLXuAD-bAqWW5bHvY",
+      "id": "UgyAnvr26AjlfRGPmXF4AaABAg",
+      "snippet": {
+        "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+        "videoId": "Y_vQyMljDsE",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "-ruVSOEE0Mm76DimfNErDrivnhI",
+          "id": "UgyAnvr26AjlfRGPmXF4AaABAg",
+          "snippet": {
+            "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+            "videoId": "Y_vQyMljDsE",
+            "textDisplay": "Mr Krish, your Udemy course is missing DBT. Tks for the awesome video",
+            "textOriginal": "Mr Krish, your Udemy course is missing DBT. Tks for the awesome video",
+            "authorDisplayName": "@eduardoamfm",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_ksEeQYG2yZEo7UIdyuPcrjy15Niak12oLl6bhcwSmB_RR-=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@eduardoamfm",
+            "authorChannelId": { "value": "UCYt1XZ8_wWIOX_KQ-uMOSxg" },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-01-13T14:27:56Z",
+            "updatedAt": "2025-01-13T14:27:56Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "N8r8iDBfGnXMMVRrqmfihZZgDMc",
+      "id": "UgzCVsSkzNr7EPU47Ot4AaABAg",
+      "snippet": {
+        "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+        "videoId": "Y_vQyMljDsE",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "DPx_EhkReVe1tVDFddpPKTDXuBA",
+          "id": "UgzCVsSkzNr7EPU47Ot4AaABAg",
+          "snippet": {
+            "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+            "videoId": "Y_vQyMljDsE",
+            "textDisplay": "excelent. Nowadays a version with BigQuery would be awesome. Tks",
+            "textOriginal": "excelent. Nowadays a version with BigQuery would be awesome. Tks",
+            "authorDisplayName": "@eduardoamfm",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_ksEeQYG2yZEo7UIdyuPcrjy15Niak12oLl6bhcwSmB_RR-=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@eduardoamfm",
+            "authorChannelId": { "value": "UCYt1XZ8_wWIOX_KQ-uMOSxg" },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-01-12T22:46:25Z",
+            "updatedAt": "2025-01-12T22:46:25Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "6UN3KSnixbFZJLcW3nWYHIbclJY",
+      "id": "Ugx-Y7b4Yrmxr4_lNkh4AaABAg",
+      "snippet": {
+        "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+        "videoId": "Y_vQyMljDsE",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "UnS2ZG1ME6gYwp9YV1fkBoBgijk",
+          "id": "Ugx-Y7b4Yrmxr4_lNkh4AaABAg",
+          "snippet": {
+            "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+            "videoId": "Y_vQyMljDsE",
+            "textDisplay": "Trust me when I say krish Naik is the best in the data business. He has a way of teaching you what needto learn",
+            "textOriginal": "Trust me when I say krish Naik is the best in the data business. He has a way of teaching you what needto learn",
+            "authorDisplayName": "@acharafranklyn5167",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lBERP_JWNg8M5fcmnLlJZiqwKz0U04qddBFkrNFOg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@acharafranklyn5167",
+            "authorChannelId": { "value": "UCnRHiaulDNPxqET_bO1HLTA" },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-01-12T09:08:05Z",
+            "updatedAt": "2025-01-12T09:08:05Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "3_a72dk-wlgtiaxBwB6rIpVqc8I",
+      "id": "Ugzeq1u6bnTsocZH5El4AaABAg",
+      "snippet": {
+        "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+        "videoId": "Y_vQyMljDsE",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Dn8zYwcmJbUCwszMHivhjHZkDPQ",
+          "id": "Ugzeq1u6bnTsocZH5El4AaABAg",
+          "snippet": {
+            "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+            "videoId": "Y_vQyMljDsE",
+            "textDisplay": "very informative, thanks",
+            "textOriginal": "very informative, thanks",
+            "authorDisplayName": "@adnankiani8604",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lQpF408eq_MVIarniYg-Rs26Lrm0-hQ-_JRJ2q87o96w=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@adnankiani8604",
+            "authorChannelId": { "value": "UCVpXx9X5zKlx9TxvHy4Zv3w" },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-01-08T22:14:16Z",
+            "updatedAt": "2025-01-08T22:14:16Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "aoVcwdCmc7z4-8nrG5XWf1gge0k",
+      "id": "UgyS94EeZ__17fIyEb14AaABAg",
+      "snippet": {
+        "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+        "videoId": "Y_vQyMljDsE",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "eKCjxcGVJN0b1psAkpvhdVgKq6g",
+          "id": "UgyS94EeZ__17fIyEb14AaABAg",
+          "snippet": {
+            "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+            "videoId": "Y_vQyMljDsE",
+            "textDisplay": "can I perform this without installing all the softwares separtely?Id there an IDE or something",
+            "textOriginal": "can I perform this without installing all the softwares separtely?Id there an IDE or something",
+            "authorDisplayName": "@sourishmukherjee2404",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lRLxlYIF6IcEdZP46kdMsjvH_V8Bpox3_V1is69JX87BM=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@sourishmukherjee2404",
+            "authorChannelId": { "value": "UC1Fmd_YHpAldqGCFLVbET0A" },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-01-06T22:49:04Z",
+            "updatedAt": "2025-01-06T22:49:04Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "9tsWW_3DD2fgfOrsuW3y0bpD_Ac",
+      "id": "UgwXdttBj-SSKYVxK-d4AaABAg",
+      "snippet": {
+        "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+        "videoId": "Y_vQyMljDsE",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "FoJfdQSlRbFn0fjNRWzOPvc_LgE",
+          "id": "UgwXdttBj-SSKYVxK-d4AaABAg",
+          "snippet": {
+            "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+            "videoId": "Y_vQyMljDsE",
+            "textDisplay": "Thank you! This was a very helpful video!!",
+            "textOriginal": "Thank you! This was a very helpful video!!",
+            "authorDisplayName": "@mallorypiedmont3021",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lrzsDJAtV-C2i8vJhfrRUS6tX8kPH18CK_5DTQNTSv8cs=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@mallorypiedmont3021",
+            "authorChannelId": { "value": "UCjGlTx1y10hFkallTj3EYkQ" },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2024-12-28T19:10:20Z",
+            "updatedAt": "2024-12-28T19:10:20Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Aoa47MjLlQFqQYHtCPkWu2TiFS4",
+      "id": "UgyKuqXUcxp7TqrU-Dl4AaABAg",
+      "snippet": {
+        "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+        "videoId": "Y_vQyMljDsE",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "eY6N1Vi_pibn8RxrZMHi2fkjE5U",
+          "id": "UgyKuqXUcxp7TqrU-Dl4AaABAg",
+          "snippet": {
+            "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+            "videoId": "Y_vQyMljDsE",
+            "textDisplay": "Sir , please hindi video \ud83d\ude2d\ud83d\ude4f",
+            "textOriginal": "Sir , please hindi video \ud83d\ude2d\ud83d\ude4f",
+            "authorDisplayName": "@AlHasan-sh3il",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/nSt_ym7TI1tue3EH0l5Yu8tBam2jKdvrXAb5ABNPlMdqmf2Gv2dZLQFmaZ83tAmyhvc_JsfYOCg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@AlHasan-sh3il",
+            "authorChannelId": { "value": "UCm-j4cSdX0NoiPARQuD2a0w" },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2024-12-22T12:30:17Z",
+            "updatedAt": "2024-12-22T12:30:17Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "UaaT3zzoIw1t1jZnINQsXp9nrcM",
+      "id": "UgxL6-V1QFpwzqYYRHZ4AaABAg",
+      "snippet": {
+        "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+        "videoId": "Y_vQyMljDsE",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "dr5GxyNbyg61tUacHxR_UuN9h6U",
+          "id": "UgxL6-V1QFpwzqYYRHZ4AaABAg",
+          "snippet": {
+            "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+            "videoId": "Y_vQyMljDsE",
+            "textDisplay": "Can the pipeline still run when i turn off my laptop ?",
+            "textOriginal": "Can the pipeline still run when i turn off my laptop ?",
+            "authorDisplayName": "@baophan259",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kIRqATo4wJbuk4GNfaMswTQ-UsQsJbcWq6lbUeAuANnZY=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@baophan259",
+            "authorChannelId": { "value": "UCQGeToc5JINvV35PvrkCa5A" },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2024-12-14T10:15:06Z",
+            "updatedAt": "2024-12-14T10:15:06Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "busstQumpVCLDpiFE-VOSEBpf_Y",
+      "id": "UgwhksZ5g-6f9Mm9J3t4AaABAg",
+      "snippet": {
+        "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+        "videoId": "Y_vQyMljDsE",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "cIJssE5_50oVATz4vOTUIpKOP8s",
+          "id": "UgwhksZ5g-6f9Mm9J3t4AaABAg",
+          "snippet": {
+            "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+            "videoId": "Y_vQyMljDsE",
+            "textDisplay": "I got the point it&#39;s base one but I have some senerios to thinnk about<br><br>-&gt; What is Retry mechanism if any of the step fails<br>-&gt; If we have a senerio where a large data should be loaded then from one DB to another then how to resume from a point we left of, for example there are 50k records to be loaded from one loc to another then and process broke at 25k then it should resume when next time it runs instead of running 50k from point 0",
+            "textOriginal": "I got the point it's base one but I have some senerios to thinnk about\n\n-> What is Retry mechanism if any of the step fails\n-> If we have a senerio where a large data should be loaded then from one DB to another then how to resume from a point we left of, for example there are 50k records to be loaded from one loc to another then and process broke at 25k then it should resume when next time it runs instead of running 50k from point 0",
+            "authorDisplayName": "@gillfromamritsar",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/8ifLIqbi2A_tuOBs3UnEJbi5d3jOXj68nr4LolLhOhK2DVfs8_IWoUJqk0Y_BmP_vOHu4N-kCQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@gillfromamritsar",
+            "authorChannelId": { "value": "UCnqhvWwrwy1YdDiKSlbx24A" },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2024-12-01T13:44:00Z",
+            "updatedAt": "2024-12-01T13:44:00Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "wfsiUOju3IvcDxL1BWfeRyUBlZA",
+      "id": "UgwsC4S6nU9hlCaCay54AaABAg",
+      "snippet": {
+        "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+        "videoId": "Y_vQyMljDsE",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "wNsX2Rh-QMZGTmaXU-7ph0YXa2o",
+          "id": "UgwsC4S6nU9hlCaCay54AaABAg",
+          "snippet": {
+            "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+            "videoId": "Y_vQyMljDsE",
+            "textDisplay": "very insightful !! thanks for the effort !",
+            "textOriginal": "very insightful !! thanks for the effort !",
+            "authorDisplayName": "@BechirMathlouthi-n9h",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_l-sTb0TDAUjJSzXF0YMIxm-GPOSJ-JBJhTfq0RFjZ6wBnYWdvZDSMmBi5u9Ay9p1Dp1Q=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@BechirMathlouthi-n9h",
+            "authorChannelId": { "value": "UCRGAQB06uAWBVCJH3dxy5hA" },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2024-11-28T10:25:42Z",
+            "updatedAt": "2024-11-28T10:25:42Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    }
+  ]
+}
