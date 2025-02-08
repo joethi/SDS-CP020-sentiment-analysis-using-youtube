@@ -13,33 +13,34 @@ Created on Sun Jan 19 11:52:14 2025
 # recorded and the number of comments is unchanged then simply load the output from the 
 # database rather than re-classifying all the comments.
 # 
-import sqlite3
+# mport sqlite3
 import pandas as pd
 from dotenv import load_dotenv
 import os
 
-connection = sqlite3.connect(r'./tempDb')
-cursor = connection.cursor()
-
-sql = '''create table if not exists video_data(
-          video_id text primary key,
-          video_title text,
-          video_owner text,
-          comment_count integer,
-          likes_count integer,
-          viewed_count integer,
-          positive_count integer,
-          neutral_count integer,
-          negative_count integer
-          )
-'''
-cursor.execute(sql)
+# connection = sqlite3.connect(r'./tempDb')
+# cursor = connection.cursor()
+# 
+# sql = '''create table if not exists video_data(
+#           video_id text primary key,
+#           video_title text,
+#           video_owner text,
+#           comment_count integer,
+#           likes_count integer,
+#           viewed_count integer,
+#           positive_count integer,
+#           neutral_count integer,
+#           negative_count integer
+#           )
+# '''
+# cursor.execute(sql)
 #%%
 #       Get video id for sentiment analysis of comments
 #
 
 import streamlit as st
 import matplotlib.pyplot as plt
+import sys
 
 
 st.title("Youtube Video - Sentiment Analysis")
@@ -56,11 +57,11 @@ st.write(
 video_id = st.text_input("Enter YouTube Video ID:", placeholder="e.g., dQw4w9WgXcQ")
 
 if video_id:
+
     st.write(f"Analyzing comments for video ID: {video_id}...")
     from googleapiclient.discovery import build
 
     SECRET_KEY = os.getenv('SECRET_KEY')
-    print(SECRET_KEY)
     api_key = SECRET_KEY
 
     youtube = build('youtube', 'v3', developerKey=api_key)
