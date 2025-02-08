@@ -29,6 +29,7 @@ Add the following to your .env:
 SECRET_KEY="your YT API key"
 
 pip install -r requirements.txt
+
 streamlit run YT_comment_analysis.py
 
 ctrl-c to exit.
