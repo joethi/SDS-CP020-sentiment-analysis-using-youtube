@@ -3,3 +3,4 @@
 python-dotenv
 google-api-python-client
 mysql-connector-python     # use this if you are using MySQL as your database
+psycopg2-binary
